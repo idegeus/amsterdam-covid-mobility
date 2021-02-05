@@ -4,6 +4,7 @@ The unorganised pre-processing files for generating the data necessary for the d
 * Read the draft report [here](report/draft_report.pdf).
 * All sensitive information has been removed. Request access to get the full dataset. 
 * Feel free to ask for more information about this project to any of the authors below!
+* A short video introduction of the project [here](https://www.youtube.com/watch?v=8B8qSIwmhaA).
 
 ### Authors: 
 
